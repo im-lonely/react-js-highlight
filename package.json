@@ -1,13 +1,23 @@
 {
   "name": "react-js-highlight",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "react-js-highlight": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "im-lonely <cursors.dev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-lonely/react-js-highlight.git"
+  },
+  "bugs": {
+    "url": "https://github.com/im-lonely/react-js-highlight/issues"
+  },
+  "homepage": "https://github.com/im-lonely/react-js-highlight#readme"
 }
